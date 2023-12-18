@@ -3,8 +3,8 @@ title: "BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Archite
 collection: publications
 permalink: /publication/BayesFT
 excerpt: 'bayesian, fault tolerant, neural architecture search'
-date: 2021-10-01
-venue: '58th ACM/IEEE Design Automation Conference (DAC)'
+date: 2021-12-05
+venue: '2021 58th ACM/IEEE Design Automation Conference (DAC)'
 paperurl: 'https://arxiv.org/pdf/2210.01795.pdf'
 citation: '`Ye N, Mei J, Fang Z, et al. BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Architecture[C]//2021 58th ACM/IEEE Design Automation Conference (DAC). IEEE, 2021: 487-492.`'
 ---
