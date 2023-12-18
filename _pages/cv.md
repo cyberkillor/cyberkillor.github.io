@@ -9,29 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-> Chinese ver. [Download CV here](http://cyberkillor.github.io/files/20231203.pdf)
+> [Chinese ver.](http://cyberkillor.github.io/files/20231203.pdf)
 
 Education
 ======
-* B.S. in Shanghai Jiaotong University, 2018 - 2022
+* B.S. in Shanghai Jiaotong University, *2018 - 2022*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* TEMU, **fulltime**, *2022.11 - present*
+  * searchrec
   
+* Pinduoduo, **fulltime**, *2022.7 - present*
+  * rec
+
+* Pinduoduo, intern, *2021.12 - 2022.2*
+  * rec
+
+* Alibaba Cloud, intern, *2021.6 - 2021.9*
+  * Data Warehouse - Hologres
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++ / CUDA / Python
+* Bazel / Cmake
+* TensorFlow / PyTorch / ONNX / FasterTransformer
+* TensorRT / cuBLAS / CUTLASS
