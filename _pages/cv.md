@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-> [Chinese ver.](http://cyberkillor.github.io/files/20231203.pdf)
+> [English version](http://cyberkillor.github.io/files/20240120.pdf)
+> [Chinese version](http://cyberkillor.github.io/files/20231203.pdf)
 
 Education
 ======

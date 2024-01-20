@@ -19,4 +19,4 @@ In my spare time, I enjoy soccer and delicious food. One coffee A day makes me s
 - GPU programing
 - MLsys, including inference and train
 - LLM system
-- Maching Learning
+- Machine Learning
